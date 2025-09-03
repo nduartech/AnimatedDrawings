@@ -2,14 +2,11 @@
 
 ![Sequence 02](https://user-images.githubusercontent.com/6675724/219223438-2c93f9cb-d4b5-45e9-a433-149ed76affa6.gif)
 
+**_Update 08-31-25: This project has been a joy to share with you all. Thanks to this community for your creativity and support along the way. I'm moving on to new adventures and won't be able to maintain this repository anymore, so I've chosen to archive it. If you have questions or want to say hello in the future, come find me at [www.hjessmith.com](http://www.hjessmith.com)._**
+ 
+This repo contains an implementation of the algorithm described in the paper, [A Method for Animating Children's Drawings of the Human Figure](https://dl.acm.org/doi/10.1145/3592788). In addition, this repo aims to be a useful creative tool in its own right, allowing you to flexibly create animations starring your own drawn characters. Here's a [video overview](https://www.youtube.com/watch?v=WsMUKQLVsOI) of the project. If you do create something fun with this, let us know! Use hashtag **#FAIRAnimatedDrawings**, or tag me on twitter: [@hjessmith](https://twitter.com/hjessmith/).
 
-This repo contains an implementation of the algorithm described in the paper, [A Method for Animating Children's Drawings of the Human Figure](https://dl.acm.org/doi/10.1145/3592788).
 
-In addition, this repo aims to be a useful creative tool in its own right, allowing you to flexibly create animations starring your own drawn characters. If you do create something fun with this, let us know! Use hashtag **#FAIRAnimatedDrawings**, or tag me on twitter: [@hjessmith](https://twitter.com/hjessmith/).
-
-Project website: [http://www.fairanimateddrawings.com](http://www.fairanimateddrawings.com)
-
-Video overview of [Animated Drawings OS Project](https://www.youtube.com/watch?v=WsMUKQLVsOI)
 
 
 ## Installation
@@ -347,4 +344,4 @@ These characters are deformed using [As-Rigid-As-Possible (ARAP) shape manipulat
 We have a Python implementation of the algorithm, located [here](https://github.com/fairinternal/AnimatedDrawings/blob/main/animated_drawings/model/arap.py), that might be of use to other developers.
 
 ## License
-Animated Drawings is released under the [MIT license](https://github.com/fairinternal/AnimatedDrawings/blob/main/LICENSE).
+Animated Drawings code, model weights, and Amateur Drawings dataset is released under the [MIT license](https://github.com/fairinternal/AnimatedDrawings/blob/main/LICENSE). ChildlikeSHAPES dataset is released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. 
