@@ -344,4 +344,4 @@ These characters are deformed using [As-Rigid-As-Possible (ARAP) shape manipulat
 We have a Python implementation of the algorithm, located [here](https://github.com/fairinternal/AnimatedDrawings/blob/main/animated_drawings/model/arap.py), that might be of use to other developers.
 
 ## License
-Animated Drawings code, model weights, and Amateur Drawings dataset is released under the [MIT license](https://github.com/fairinternal/AnimatedDrawings/blob/main/LICENSE). ChildlikeSHAPES dataset is released uder [CC-BY](https://creativecommons.org/licenses/by/4.0/) license. 
+Animated Drawings code, model weights, and Amateur Drawings dataset is released under the [MIT license](https://github.com/fairinternal/AnimatedDrawings/blob/main/LICENSE). ChildlikeSHAPES dataset is released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. 
